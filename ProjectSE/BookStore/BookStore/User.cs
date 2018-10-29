@@ -35,6 +35,7 @@ namespace BookStore
             dgvUser.Columns[4].HeaderText = "นามสกุล";
             dgvUser.Columns[5].HeaderText = "ที่อยู่";
             dgvUser.Columns[6].HeaderText = "เบอร์โทร";
+            var a = 6;
         }
 
         private void SearchUser()
